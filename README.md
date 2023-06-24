@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/chinyereunamba)
-- Live Site URL: [Add live site URL here](https://courageous-cocada-0fbc6e.netlify.app)
+- Solution URL: (https://github.com/chinyereunamba)
+- Live Site URL: (https://courageous-cocada-0fbc6e.netlify.app)
 
 ## My process
 
